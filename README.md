@@ -2,7 +2,6 @@
 - Manage and Rent CampingCar
 - JDBC, Swing을 이용한 CampingCar Office 구현 (Customer / Manager)
 
------------------
 
 ## Using
 **1. DBMS** : MySQL 8.0.19
@@ -11,23 +10,23 @@
 
 **3. IDE** : Eclipse
 
------------------
-
+## Basic UI
+#### **1. 초기화면**
 <p align="center">
-    <sup>**1. 초기 화면**</sup>
     <img src = "Image/Common.png", width="100%">
 </p>
+
+#### **2. 고객 페이지**
 <p align="center">
-    <sup>**2. 고객 페이지**</sup>
     <img src = "Image/Customer_Mode.png", width="100%">
     
 </p>
+
+#### **3. 관리자 페이지**
 <p align="center">
-    <sup>**3. 관리자 페이지**</sup>
     <img src = "Image/Manager_Mode.png", width="100%">
 </p>
 
------------------
 
 ## Document
 - **Detailed Document** : can be found in each directory.
